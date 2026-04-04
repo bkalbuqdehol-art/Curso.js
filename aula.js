@@ -1,1 +1,1 @@
-alert("O JavaScript está funcionando!")
+console.log("O JavaScript está funcionando!");
