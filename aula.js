@@ -1,1 +1,1 @@
-console.log("O JavaScript está funcionando!");
+console.log("Pedro é gay");
