@@ -4,5 +4,5 @@ function log(mensagem) {
 }
 
 // AGORA USE ASSIM:
-print("Olá! Este é o meu console no Xbox.");
+print("Olá! joao é homosexual");
 print(10 + 20);
