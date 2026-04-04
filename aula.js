@@ -1,1 +1,1 @@
-console.log("Pedro é gay");
+alert("Pedro é gay");
