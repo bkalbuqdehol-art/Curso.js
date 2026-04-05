@@ -1,1 +1,2 @@
-alert("pedro adora gays");
+let penis = 12
+alert(penis)
