@@ -1,1 +1,1 @@
-alert("joao  da bunda");
+alert("pedro adora gays");
