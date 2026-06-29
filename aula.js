@@ -1,2 +1,2 @@
-let penis = 13
+let name=penis
 alert(penis)
